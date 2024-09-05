@@ -21,7 +21,7 @@ to initialize the BAAI/bge-base-en-v1.5 model as the Embedding Model.
 4. Download Data: The code creates a directory called data/your_data/ and downloads a JSON 
 file containing the data for the RAG model from a GitHub repository.
 
-5. Load Data: Use Your onw Json file, or Use any site links to scrape data and create a Json file. The SimpleDirectoryReader class from LlamaIndex is used to load the data from the 
+5. Load Data: Use Your own Json file, or Use any site links to scrape data and create a Json file. The SimpleDirectoryReader class from LlamaIndex is used to load the data from the 
 downloaded JSON file.
 
 7. Index Data: The loaded data is passed to the VectorStoreIndex.from_documents method, which 
