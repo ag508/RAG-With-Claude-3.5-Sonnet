@@ -5,6 +5,8 @@ query) and language models (generating coherent and contextual responses based o
 information). The LlamaIndex library simplifies the process of setting up and using RAG models by 
 providing abstractions and utilities for data loading, indexing, and querying.
 
+Live Demo With a Different Approch And Free To Use : https://colab.research.google.com/drive/16f-61PSUxKmraJjfx472YzdqgXA2Arjs?usp=sharing
+
 1. Setup API Keys: The code sets the ANTHROPIC_API_KEY environment variable, which is required 
 to authenticate with the Anthropic API and use the Claude language model.
 
