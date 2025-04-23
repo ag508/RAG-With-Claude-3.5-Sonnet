@@ -8,7 +8,7 @@ providing abstractions and utilities for data loading, indexing, and querying.
 Live Demo With a Different Approch And Free To Use : https://colab.research.google.com/drive/16f-61PSUxKmraJjfx472YzdqgXA2Arjs?usp=sharing
 
 1. Setup API Keys: The code sets the ANTHROPIC_API_KEY environment variable, which is required 
-to authenticate with the Anthropic API and use the Claude Language model.
+to authenticate with the Anthropic API and use the Claude LLM model.
 
 ![image](https://github.com/user-attachments/assets/5db6d2f3-f575-48a9-8c22-7a3ee1b0c87d)
 
